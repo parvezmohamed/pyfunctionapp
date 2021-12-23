@@ -1,0 +1,7 @@
+azure-functions
+#azure-identity
+#azure-keyvault-secrets
+pyOpenSSL == 20.0.0
+azure-eventhub
+azure-storage-blob
+

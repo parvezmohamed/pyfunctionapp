@@ -1,0 +1,11 @@
+{
+  "scriptFile": "blob_ingest.py",
+  "bindings": [
+    {
+      "name": "mytimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 0 */1 * * *"
+    }
+  ]
+}
